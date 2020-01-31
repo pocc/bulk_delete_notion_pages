@@ -1,9 +1,3 @@
----
-layout: page
-title: Empty Notion Trash
-description: Bookmarklet to permanently delete all notion pages that have already been deleted.
----
-
 # Emtpy Notion Trash
 
 - **To Install**: Drag and drop this link<a class="bookmarklet"
