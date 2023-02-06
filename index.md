@@ -4,7 +4,7 @@ title: Empty Notion Trash
 description: Bookmarklet to permanently delete all notion pages that have already been deleted.
 ---
 
-# Emtpy Notion Trash
+# Empty Notion Trash
 
 [Source repo](https://github.com/pocc/bulk_delete_notion_pages)
 
